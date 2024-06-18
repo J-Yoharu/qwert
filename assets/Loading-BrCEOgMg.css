@@ -1,0 +1,1 @@
+@keyframes spin-22dcd576{0%{transform:rotate(0)}to{transform:rotate(360deg)}}.dot[data-v-22dcd576]{animation:bounce-22dcd576 .5s infinite alternate}.dot1[data-v-22dcd576]{animation-delay:.2s}.dot2[data-v-22dcd576]{animation-delay:.4s}.dot3[data-v-22dcd576]{animation-delay:.6s}@keyframes bounce-22dcd576{0%{transform:translateY(0)}to{transform:translateY(-2px)}}

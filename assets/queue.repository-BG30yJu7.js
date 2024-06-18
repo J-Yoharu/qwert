@@ -1,0 +1,1 @@
+import{bn as u}from"./index-eSwy3xtz.js";function r(){return u.get("/queue")}function o(e){return u.post("/queue",e)}function a(e,t){return t.append("_method","PUT"),u.post(`/queue/${e}`,t)}function s(e){return u.delete(`/queue/${e}`)}export{o as c,s as d,r as g,a as u};

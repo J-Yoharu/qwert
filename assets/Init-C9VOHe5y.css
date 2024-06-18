@@ -1,0 +1,1 @@
+.keyboard-key .text-h4{transition:filter 2s;transition-delay:2s;filter:contrast(200%)}.keyboard-key:active{border:rgb(var(--v-theme-keyboard)) 2px solid!important;color:#fff!important;transition:none;filter:none;background:rgb(var(--v-theme-keyboard))!important}
