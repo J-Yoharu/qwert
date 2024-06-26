@@ -1,1 +1,0 @@
-import{p as n,k as o,n as r,g as l,M as i,f as c,h as u}from"./index-CONA2sxp.js";const m=n({fluid:{type:Boolean,default:!1},...o(),...r()},"VContainer"),f=l()({name:"VContainer",props:m(),setup(e,a){let{slots:s}=a;const{rtlClasses:t}=i();return c(()=>u(e.tag,{class:["v-container",{"v-container--fluid":e.fluid},t.value,e.class],style:e.style},s)),{}}});export{f as V};
